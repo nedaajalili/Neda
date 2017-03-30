@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## About me:
 
-You can use the [editor on GitHub](https://github.com/nedaajalili/Neda/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Neda and I am from Iran. I am a computer engineering student in Politecnic of Turin in Italy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About this website:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I created this website to practise working with GitHub.
+
 
 ```markdown
 Syntax highlighted code block
